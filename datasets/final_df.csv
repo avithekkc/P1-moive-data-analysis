@@ -1,0 +1,344 @@
+,title,runtime,rating,director,producer,cinematographer,writer,budget,domestic,worldwide,year,ROI,Musical,Family,War,Sport,Fantasy,Adventure,Romance,Horror,Crime,Mystery,Music,Comedy,Biography,Action,Documentary,Drama,Western,History,Sci-Fi,Animation,Thriller
+1,Lincoln,150.0,7.4,Steven Spielberg,Kathleen Kennedy,Janusz Kaminski,Tony Kushner,65000000,182207973,273346281,2012,320.53274,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+2,Season of the Witch,95.0,5.4,Dominic Sena,Charles Roven,Amir Mokri,Bragi F. Schut,40000000,24827228,91126600,2011,127.8165,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,Dallas Buyers Club,117.0,8.0,Jean-Marc Vallée,Rachel Winter,Yves Bélanger,Craig Borten,5000000,27298285,60611845,2013,1112.2369,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+4,Interstellar,169.0,8.6,Christopher Nolan,Emma Thomas,Hoyte Van Hoytema,Jonathan Nolan,165000000,188017894,666379375,2014,303.8662878787879,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+5,Flipped,90.0,7.7,Rob Reiner,Alan Greisman,Thomas Del Ruth,Andrew Scheinman,14000000,1755212,4289993,2010,-69.35719285714286,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+6,The Avengers,143.0,8.1,Joss Whedon,Kevin Feige,Seamus McGarvey,Zak Penn,225000000,623279547,1517935897,2012,574.6381764444444,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+7,Eat Pray Love,133.0,5.8,Ryan Murphy,Dede Gardner,Robert Richardson,Jennifer Salt,60000000,80574010,206598789,2010,244.331315,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8,The Wedding Ringer,101.0,6.7,Jeremy Garelick,Will Packer,Bradford Lipson,Jay Lavender,23000000,64460211,80171596,2015,248.57215652173915,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+9,Salt,100.0,6.4,Phillip Noyce,Lorenzo di Bonaventura,Robert Elswit,Kurt Wimmer,130000000,118311368,290650494,2010,123.57730307692307,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1
+10,Nine Dead,98.0,5.5,Chris Shadley,Paula Hart,Mark Vargo,Patrick Wehe Mahoney,2000000,0,0,2009,-100.0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+11,Sucker Punch,110.0,6.1,Zack Snyder,Deborah Snyder,Larry Fong,Steve Shibuya,75000000,36392502,89758389,2011,19.677852,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+12,The Green Hornet,119.0,5.8,Michel Gondry,Neal H. Moritz,John Schwartzman,Evan Goldberg,110000000,98780042,229155503,2011,108.32318454545455,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+13,The Iron Lady,105.0,6.4,Phyllida Lloyd,Damian Jones,Elliot Davis,Abi Morgan,14000000,29959436,115592104,2012,725.6578857142857,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+14,The Eagle,114.0,6.2,Kevin Macdonald,Duncan Kenworthy,Anthony Dod Mantle,Jeremy Brock,25000000,19490041,38993548,2011,55.974192,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+15,Legion,100.0,5.2,Scott Stewart,David Lancaster,John Lindley,Peter Schink,26000000,40168080,67647574,2010,160.18297692307692,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+16,The Bounty Hunter,110.0,5.6,Andy Tennant,Neal H. Moritz,Oliver Bokelberg,Sarah Thorp,45000000,67061228,135808837,2010,201.79741555555557,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+17,The Nutcracker in 3D,110.0,4.3,Andrey Konchalovskiy,Paul Lowin,Mike Southon,Chris Solimine,90000000,195459,20466016,2010,-77.25998222222222,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+18,Repo Men,111.0,6.3,Miguel Sapochnik,Scott Stuber,Enrique Chediak,Eric Garcia,32000000,13942007,18195238,2010,-43.13988125,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0
+19,Good Intentions,84.0,5.2,Jim Issa,Pamela Peacock,Jordan McMonagle,Michael Lucker,10000000,0,0,2009,-100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+20,Winchester,99.0,5.4,Michael Spierig,Tim McGahan,Ben Nott,Tom Vaughan,3500000,25091816,44378040,2018,1167.944,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+21,The Belko Experiment,89.0,6.1,Greg McLean,Peter Safran,Luis David Sansans,James Gunn,5000000,10166820,11792942,2017,135.85884,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+22,Paddington,95.0,7.2,Paul King,David Heyman,Erik Wilson,Hamish McColl,55000000,76223578,258789097,2015,370.5256309090909,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+23,Trance,83.0,4.6,Hans Rodionoff,Jordan Kessler,Andy Sparaco,John Fallon,16000000,2322593,22594052,2013,41.212824999999995,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,Free State of Jones,139.0,6.9,Gary Ross,Jon Kilik,Benoît Delhomme,Leonard Hartman,50000000,20810036,23237252,2016,-53.525496,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+25,Love Ranch,117.0,5.6,Taylor Hackford,Lou DiBella,Kieran McGuigan,Mark Jacobson,25000000,137885,146149,2010,-99.415404,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+26,Big Eyes,106.0,7.0,Tim Burton,Lynette Howell Taylor,Bruno Delbonnel,Scott Alexander,10000000,14482031,27317872,2014,173.17872,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+27,Morning Glory,107.0,6.5,Roger Michell,J.J. Abrams,Alwin H. Küchler,Aline Brosh McKenna,40000000,31011732,59795070,2010,49.487674999999996,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+28,The Ghost Writer,128.0,7.2,Roman Polanski,Robert Benmussa,Pawel Edelman,Robert Harris,45000000,15541549,65532491,2010,45.62775777777778,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+29,Frankenweenie,87.0,7.0,Tim Burton,Allison Abbate,Peter Sorg,Leonard Ripps,39000000,35287788,81150788,2012,108.07894358974359,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+30,Beastly,86.0,5.6,Daniel Barnz,Susan Cartsonis,Mandy Walker,Alex Flinn,17000000,27865571,38028230,2011,123.6954705882353,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+31,Blood Done Sign My Name,128.0,6.6,Jeb Stuart,Mel Efros,Steve Mason,Tim Tyson,10000000,109383,109383,2010,-98.90617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+32,Hereafter,129.0,6.5,Clint Eastwood,Robert Lorenz,Tom Stern,Peter Morgan,50000000,32746941,108660270,2010,117.32054000000001,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+33,"Fat, Sick & Nearly Dead",97.0,7.6,Kurt Engfehr,Stacey Offman,Daniel Marracino,Robert Mac,2600000,0,0,2011,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+34,Brighton Rock,111.0,5.7,Rowan Joffe,Paul Webster,John Mathieson,Graham Greene,11000000,229653,229653,2011,-97.91224545454546,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+35,Your Highness,102.0,5.5,David Gordon Green,Scott Stuber,Tim Orr,Ben Best,50000000,21596445,26121638,2011,-47.756724,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+36,Conviction,107.0,7.2,Tony Goldwyn,Andrew S. Karsch,Adriano Goldman,Pamela Gray,12500000,6797696,11826980,2010,-5.3841600000000005,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+37,Snatched,81.0,5.5,Joe Cacaci,Jerry Daigle,George Gibson,Alan Donnes,42000000,45852178,57852177,2017,37.743278571428576,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+38,Sex and the City 2,146.0,4.4,Michael Patrick King,John P. Melfi,John Thomas,Darren Star,95000000,95347692,294680778,2010,210.19029263157893,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+39,Scream 4,111.0,6.2,Wes Craven,Iya Labunka,Peter Deming,Kevin Williamson,40000000,38180928,95989590,2011,139.973975,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+40,The Roommate,91.0,4.9,Christian E. Christiansen,Doug Davison,Phil Parmet,Sonny Mallhi,16000000,37300107,52545707,2011,228.41066875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+41,A Very Harold & Kumar 3D Christmas,90.0,6.3,Todd Strauss-Schulson,Greg Shapiro,Michael Barrett,Jon Hurwitz,20000000,35061031,36265745,2011,81.328725,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+42,Easy A,92.0,7.1,Will Gluck,Zanne Devine,Michael Grady,Bert V. Royal,8000000,58401464,76200721,2010,852.5090125,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+43,N-Secure,105.0,3.6,David M. Matthews,Valerie Enloe,Andy Dean,Julius Lewis,1600000,2595644,2595644,2010,62.22775,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+44,Warrior,140.0,8.2,Gavin O'Connor,Greg O'Connor,Masanobu Takayanagi,Anthony Tambakis,25000000,13657115,24215385,2011,-3.13846,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+45,50/50,100.0,7.7,Jonathan Levine,Evan Goldberg,Terry Stacey,Will Reiser,8000000,35016118,41334735,2011,416.6841875,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+46,Devil,80.0,6.2,John Erick Dowdle,Sam Mercer,Tak Fujimoto,M. Night Shyamalan,10000000,33679655,63354114,2010,533.54114,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+47,The Reef,94.0,5.8,Andrew Traucki,Michael Robertson,Daniel Ardilley,James M. Vernon,10000000,0,15037867,2010,50.37867,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+48,The Perfect Host,93.0,6.8,Nick Tomnay,Mark Victor,John Brawley,Krishna Jones,1000000,48764,51587,2011,-94.84129999999999,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+49,If I Stay,107.0,6.8,R.J. Cutler,Alison Greenspan,John de Borman,Shauna Cross,11000000,50474843,78356170,2014,612.3288181818182,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+50,Made in Dagenham,113.0,7.2,Nigel Cole,Elizabeth Karlsen,John de Borman,William Ivory,8000000,1095369,15644196,2010,95.55245,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+51,Grown Ups,102.0,6.0,Dennis Dugan,Jack Giarraputo,Theo van de Sande,Fred Wolf,75000000,162001186,272223430,2010,262.9645733333333,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+52,The Other Guys,107.0,6.7,Adam McKay,Jimmy Miller,Oliver Wood,Chris Henchy,100000000,119219978,170936470,2010,70.93647,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+53,Suicide Squad,123.0,6.0,David Ayer,Charles Roven,Roman Vasyanov,John Ostrander,175000000,325100054,746059887,2016,326.31993542857145,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+54,Downsizing,135.0,5.7,Alexander Payne,Mark Johnson,Phedon Papamichael,Jim Taylor,68000000,24449754,54462971,2017,-19.907395588235293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+55,When the Bough Breaks,107.0,5.1,Jon Cassar,Michael Lynne,David Moxness,Jack Olsen,10000000,29747603,30768449,2016,207.68449,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+56,Winter's Bone,100.0,7.2,Debra Granik,Alix Madigan,Michael McDonough,Anne Rosellini,2000000,6531503,16131551,2010,706.57755,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+57,True Grit,110.0,7.6,Ethan Coen,Scott Rudin,Roger Deakins,Charles Portis,35000000,171243005,252276928,2010,620.7912228571429,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+58,Remember Me,113.0,7.1,Allen Coulter,Trevor Engelson,Jonathan Freeman,Will Fetters,16000000,19068240,56506120,2010,253.16325,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+59,For Colored Girls,133.0,6.1,Tyler Perry,Roger M. Bobb,Alexander Gruszynski,Ntozake Shange,21000000,37729698,38017873,2010,81.03749047619047,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+60,Tracker,102.0,6.5,Ian Sharp,Trevor Haysom,Harvey Harrison,Nicolas van Pallandt,6500000,0,3149,2011,-99.95155384615386,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+61,You Again,105.0,5.8,Andy Fickman,John J. Strauss,David Hennings,Moe Jelline,20000000,25702053,32838945,2010,64.19472499999999,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+62,Beneath Hill 60,122.0,7.1,Jeremy Sims,Bill Leimbach,Toby Oliver,David Roach,9000000,0,3440939,2014,-61.76734444444445,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+63,A Lonely Place to Die,99.0,6.3,Julian Gilbey,Michael Loveday,Ali Asad,Will Gilbey,4000000,0,442550,2012,-88.93625,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+64,Barney's Version,134.0,7.3,Richard J. Lewis,Robert Lantos,Guy Dufaux,Mordecai Richler,30000000,7502560,8845575,2011,-70.51475,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+65,Stone,105.0,5.4,John Curran,Holly Wiersma,Maryse Alberti,Angus MacLachlan,22000000,1810078,4065020,2010,-81.52263636363635,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+66,Deadline,95.0,4.8,Curt Hahn,Molly M. Mayeux,Paul Marschall,Mark Ethridge,1800000,0,0,2009,-100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+67,Mientras duermes,102.0,7.2,Jaume Balagueró,Julio Fernández,Pablo Rosso,Alberto Marini,5000000,0,9109597,2012,82.19194,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+68,Quartet,94.0,6.8,Dustin Hoffman,Finola Dwyer,John de Borman,Ronald Harwood,11000000,18388357,56178935,2013,410.7175909090909,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+69,My Girlfriend's Boyfriend,84.0,5.8,Daryn Tufts,Rick McFarland,Brandon Christensen,Benji Smith,1400000,0,0,2010,-100.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+70,Gravity,91.0,7.7,Alfonso Cuarón,David Heyman,Emmanuel Lubezki,Jonás Cuarón,110000000,274092705,693698673,2013,530.6351572727273,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+71,Buried,95.0,7.0,Rodrigo Cortés,Peter Safran,Eduard Grau,Chris Sparling,1987650,1044143,21270290,2010,970.1225064774986,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+72,The Odd Life of Timothy Green,105.0,6.6,Peter Hedges,Jim Whitaker,John Toll,Ahmet Zappa,40000000,51853450,55249159,2012,38.1228975,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+73,Joy,75.0,6.1,Mijke de Jong,Frans van Gestel,Ton Peters,Helena van der Meulen,60000000,56451232,101134059,2015,68.556765,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+74,MacGruber,90.0,5.5,Jorma Taccone,John Goldwyn,Brandon Trost,John Solomon,10000000,8525600,8629895,2010,-13.70105,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+75,Max Steel,92.0,4.6,Stewart Hendler,Bill O'Dowd,Brett Pawlak,Christopher L. Yost,10000000,3818664,4563080,2016,-54.36919999999999,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+76,The Change-Up,112.0,6.3,David Dobkin,Neal H. Moritz,Eric Alan Edwards,Jon Lucas,52000000,37243418,75997067,2011,46.14820576923077,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+77,Area 51,91.0,4.2,Oren Peli,Jason Blum,Todd Matthew Grossman,Christopher Denham,5000000,7556,7556,2015,-99.84888,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1
+78,Everything Must Go,97.0,6.4,Dan Rush,Wyck Godfrey,Michael Barrett,Raymond Carver,5000000,2712131,2821010,2011,-43.5798,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+79,Beautiful Boy,100.0,6.6,Shawn Ku,Lee Clay,Michael Fimognari,Michael Armbruster,25000000,7634767,13031424,2018,-47.874304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+80,Hope Springs,100.0,6.3,David Frankel,Guymon Casady,Florian Ballhaus,Vanessa Taylor,30000000,63536011,133085295,2012,343.61765,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+81,The Grace Card,101.0,6.6,David G. Evans,John Nasraway,John Paul Clark,Howard Klausner,200000,2430735,2430735,2011,1115.3675,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+82,Premium Rush,91.0,6.5,David Koepp,Gavin Polone,Mitchell Amundsen,John Kamps,35000000,20275446,31393201,2012,-10.30514,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+83,The Last Stand,107.0,6.4,Jee-woon Kim,Lorenzo di Bonaventura,Ji-yong Kim,Andrew Knauer,30000000,12050299,48330757,2013,61.10252333333334,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+84,The Devil Inside,83.0,4.2,William Brent Bell,Morris Paulson,Gonzalo Amat,Matthew Peterman,1000000,53262945,101759490,2012,10075.949,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,One Day,107.0,7.0,Lone Scherfig,Nina Jacobson,Benoît Delhomme,David Nicholls,15000000,13843771,59168692,2011,294.45794666666666,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+86,Overboard,112.0,5.9,Rob Greenberg,Ben Odell,Michael Barrett,Bob Fisher,12000000,50316123,85369830,2018,611.41525,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+87,For Greater Glory: The True Story of Cristiada,145.0,6.6,Dean Wright,Pablo Jose Barroso,Eduardo Martínez Solares,Michael Love,12000000,5669081,10026255,2012,-16.447875,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+88,Man on a Ledge,102.0,6.6,Asger Leth,Lorenzo di Bonaventura,Paul Cameron,Pablo F. Fenjves,42000000,18620000,49621440,2012,18.146285714285714,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+89,A Dangerous Method,99.0,6.4,David Cronenberg,Jeremy Thomas,Peter Suschitzky,Christopher Hampton,20000000,5702083,14807531,2011,-25.962345,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+90,The Dilemma,111.0,5.3,Ron Howard,Brian Grazer,Salvatore Totino,Allan Loeb,70000000,48475290,70546865,2011,0.7812357142857143,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+91,Safe House,115.0,6.8,Daniel Espinosa,Scott Stuber,Oliver Wood,David Guggenheim,85000000,126181630,208542162,2012,145.34372,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+92,Prom,104.0,5.4,Joe Nussbaum,Ted Griffin,Byron Shah,Katie Wech,8000000,10130219,10763183,2011,34.5397875,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+93,Abraham Lincoln: Vampire Hunter,105.0,5.9,Timur Bekmambetov,Tim Burton,Caleb Deschanel,Seth Grahame-Smith,67500000,37519139,137489730,2012,103.68848888888888,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+94,J. Edgar,137.0,6.6,Clint Eastwood,Robert Lorenz,Tom Stern,Dustin Lance Black,35000000,37306030,84606030,2011,141.7315142857143,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+95,Blackthorn,102.0,6.6,Mateo Gil,Ibon Cormenzana,Juan Ruiz Anchía,Miguel Barros,4500000,200558,1217307,2011,-72.94873333333334,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+96,Enter Nowhere,90.0,6.6,Jack Heller,Dallas Sonnier,Tom Harting,Shawn Christensen,500000,0,0,2012,-100.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+97,Project X,88.0,6.7,Nima Nourizadeh,Todd Phillips,Ken Seng,Michael Bacall,12000000,54731865,103028188,2012,758.5682333333334,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+98,Inside Out,93.0,4.6,Artie Mandelberg,Michael Pavone,Kenneth Zunder,Dylan Schaffer,175000000,356461711,854235992,2015,388.1348525714286,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+99,Inside Job,109.0,8.3,Charles Ferguson,Audrey Marrs,Svetlana Cvetko,Chad Beck,2000000,4311834,7799257,2010,289.96285,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+100,How to Train Your Dragon 2,102.0,7.8,Dean DeBlois,Bonnie Arnold,Gil Zimmerman,Cressida Cowell,145000000,177002924,614586270,2014,323.8526,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+101,Here Comes the Boom,105.0,6.4,Frank Coraci,Todd Garner,Phil Meheux,Allan Loeb,42000000,45290318,73239258,2012,74.37918571428571,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+102,Wanderlust,98.0,5.6,David Wain,Judd Apatow,Michael Bonvillain,Ken Marino,32500000,17288155,24159934,2012,-25.66174153846154,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+103,Polisse,127.0,7.3,Maïwenn,Alain Attal,Pierre Aïm,Emmanuelle Bercot,8900000,176988,22744132,2012,155.55204494382022,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+104,Christmas Mail,89.0,5.8,John Murlowski,Tom Shell,Justin Duval,Steven Palmer Peterson,2500000,0,0,2010,-100.0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+105,Elle s'appelait Sarah,111.0,7.5,Gilles Paquet-Brenner,Stéphane Marsil,Pascal Ridao,Tatiana De Rosnay,14500000,7691700,25480031,2011,75.72435172413793,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+106,Entourage,104.0,6.6,Doug Ellin,Stephen Levinson,Steven Fierberg,Rob Weiss,30000000,32363404,46438538,2015,54.79512666666667,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+107,My Last Day Without You,90.0,5.7,Stefan C. Schaefer,Diane Crespo,Dan Hersey,Chris Silber,1000000,0,0,2013,-100.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+108,High Road,87.0,5.4,Matt Walsh,Kirk Roos,Hillary Spera,Josh Weiner,546173,0,0,2012,-100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+109,Carnage,80.0,7.2,Roman Polanski,Saïd Ben Saïd,Pawel Edelman,Yasmina Reza,25000000,2546747,38112154,2011,52.448616,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+110,Genius,104.0,6.6,Michael Grandage,James Bierman,Ben Davis,John Logan,17000000,1361045,7265283,2016,-57.26304117647059,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+111,Chronicle,84.0,7.1,Josh Trank,John Davis,Matthew Jensen,Max Landis,12000000,64575175,123681790,2012,930.6815833333334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+112,Killer Joe,102.0,6.7,William Friedkin,Nicolas Chartier,Caleb Deschanel,Tracy Letts,10000000,1291645,4659110,2012,-53.4089,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+113,Darling Companion,103.0,5.1,Lawrence Kasdan,Elizabeth Redleaf,Michael McDonough,Meg Kasdan,12000000,793352,1200346,2012,-89.99711666666667,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+114,I Don't Know How She Does It,89.0,4.9,Douglas McGrath,Donna Gigliotti,Stuart Dryburgh,Aline Brosh McKenna,24000000,9659074,24474463,2011,1.9769291666666668,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+115,August,99.0,5.9,Eldar Rapaport,Alexander Brodzki,James Adolphus,Brian Sloan,3400000,12636,12636,2008,-99.62835294117647,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+116,Like Crazy,86.0,6.7,Drake Doremus,Jonathan Schwartz,John Guleserian,Ben York Jones,250000,3395391,3728400,2011,1391.3600000000001,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+117,Elysium,,6.0,Brandon Young,Gregory Andersen,David M. Clark,Danny Chadwick,120000000,93050117,286192091,2013,138.49340916666665,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+118,Kill List,95.0,6.4,Ben Wheatley,Claire Jones,Laurie Rose,Amy Jump,800000,29063,462206,2012,-42.224250000000005,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+119,Zero Dark Thirty,157.0,7.4,Kathryn Bigelow,Megan Ellison,Greig Fraser,Mark Boal,52500000,95720716,134612435,2012,156.4046380952381,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+120,Inherent Vice,148.0,6.7,Paul Thomas Anderson,JoAnne Sellar,Robert Elswit,Thomas Pynchon,20000000,8110975,14772346,2014,-26.138270000000002,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+121,This Is Martin Bonner,83.0,6.6,Chad Hartigan,Cherie Saulter,Sean McElwee,Tara Everhart,42000,0,0,2013,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+122,After,90.0,5.5,Ryan Smith,Brandon Gregory,Blake McClure,Jason Parish,650000,0,0,2012,-100.0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+123,Freaks of Nature,92.0,5.9,Robbie Pickering,Matt Tolmach,Uta Briesewitz,Oren Uziel,33000000,70958,70958,2015,-99.78497575757575,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+124,Nebraska,115.0,7.7,Alexander Payne,Albert Berger,Phedon Papamichael,Bob Nelson,12000000,17654912,24761360,2013,106.34466666666667,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+125,Chappie,120.0,6.8,Neill Blomkamp,Simon Kinberg,Trent Opaloch,Terri Tatchell,49000000,31569268,105002056,2015,114.28991020408164,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+126,Hostel,111.0,5.1,Manish Gupta,Gurpal Sachar,Srikanth Naroj,Virag Mishra,4800000,47326473,82241110,2006,1613.3564583333332,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+127,The Gambler,105.0,7.0,Szabolcs Hajdu,Andrea Taschler,András Nagy,Fyodor Dostoevsky,25000000,33680992,38718031,2014,54.872124,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+128,Wanted,160.0,4.5,B.V.S. Ravi,Venigalla Anand Prasad,Rasool Ellore,Saikrishna,75000000,134508551,342416460,2008,356.55528,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+129,Truth or Dare,96.0,5.6,Robert Heath,Rupert Jermyn,James Friend,Matthew McGuchan,3500000,41411015,95127344,2018,2617.9241142857145,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+130,The Face of Love,92.0,6.2,Arie Posin,Bonnie Curtis,Antonio Riestra,Matthew McDuffie,4000000,385069,1158877,2014,-71.028075,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+131,Sisters,118.0,6.0,Jason Moore,Jay Roach,Barry Peterson,Paula Pell,30000000,87044645,106030660,2015,253.43553333333335,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+132,Turbo,96.0,6.4,David Soren,Lisa Stewart,Chris Stover,Darren Lemke,135000000,83028130,286896578,2013,112.51598370370371,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+133,Detention of the Dead,87.0,4.6,Alex Craig Mann,Brooke Anderson,Noah Rosenthal,Rob Rinow,500000,1778,1778,2013,-99.6444,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+134,The Sessions,95.0,7.2,Ben Lewin,Stephen Nemeth,Geoffrey Simpson,Mark O'Brien,1000000,6002451,11495204,2012,1049.5203999999999,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+135,Won't Back Down,121.0,6.4,Daniel Barnz,Mark Johnson,Roman Osin,Brin Hill,19000000,5310554,5745503,2012,-69.76051052631578,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+136,Miss Bala,113.0,6.5,Gerardo Naranjo,Pablo Cruz,Mátyás Erdély,Mauricio Katz,15000000,14998027,15362298,2019,2.41532,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+137,Sinister,110.0,6.8,Scott Derrickson,Jason Blum,Christopher Norr,C. Robert Cargill,3000000,48086903,87727807,2012,2824.2602333333334,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+138,Venom,92.0,3.0,Gary Breslin,Wolf Schmidt,Polly Morgan,Joan Canning Boris,116000000,213511408,853628605,2018,635.8867284482758,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+139,Morgan,89.0,6.8,Michael D. Akers,Israel Ehrisman,Chris Brown,Sandon Berg,8000000,3915251,7298786,2016,-8.765175,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+140,Drunk Wedding,81.0,4.6,Nick Weiss,Couper Samuelson,Frederick Schroeder,Anthony Weiss,600000,3301,3301,2015,-99.44983333333333,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+141,Tomorrowland,130.0,6.4,Brad Bird,Jeffrey Chernov,Claudio Miranda,Damon Lindelof,170000000,93436322,206627518,2015,21.54559882352941,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+142,Tag,91.0,4.6,Danny Roth,Randy Wayne,Joseph White,Ethan Banville,28000000,54730625,77026186,2018,175.09352142857142,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+143,Victor Frankenstein,110.0,6.0,Paul McGuigan,John Davis,Fabian Wagner,Mary Shelley,40000000,5775076,31124367,2015,-22.1890825,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+144,The Cottage,88.0,4.8,Chris Jaymes,Bettina Tendler O'Mara,Zoltan Honti,Nick Antosca,5000000,0,1504960,2008,-69.90079999999999,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+145,Geostorm,109.0,5.3,Dean Devlin,David Ellison,Roberto Schaefer,Paul Guyot,100000000,33700160,220796009,2017,120.796009,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1
+146,No Good Deed,84.0,5.6,Sam Miller,Will Packer,Michael Barrett,Aimee Lagos,13200000,52543632,54323210,2014,311.53946969696966,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+147,Mama,100.0,6.2,Andy Muschietti,J. Miles Dale,Antonio Riestra,Barbara Muschietti,15000000,71628180,148095566,2013,887.3037733333333,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+148,Straight A's,91.0,5.7,James Cox,Holly Wiersma,Shawn Kim,Dave Cole,2000000,0,0,2013,-100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+149,USS Indianapolis: Men of Courage,128.0,5.2,Mario Van Peebles,Michael Mendelsohn,Andrzej Sekula,Cam Cannon,40000000,0,1663785,2016,-95.8405375,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+150,"Pink Ribbons, Inc.",97.0,7.3,Léa Pool,Ravida Din,Nathalie Moliavko-Visotzky,Patricia Kearns,1200000,26608,26608,2012,-97.78266666666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+151,AWOL-72,82.0,3.8,Christian Sesma,Malik Barnhardt,Germano Saracco,Cecil Chambers,3000000,0,0,2015,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+152,Stranded,88.0,4.8,Daniel Petrie Jr.,Rick Dugdale,Edd Lukas,Rachel Long,1900000,0,285593,2013,-84.96878947368421,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+153,Trouble with the Curve,111.0,6.8,Robert Lorenz,Michele Weisler,Tom Stern,Randy Brown,60000000,35763137,47818913,2012,-20.301811666666666,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+154,Down and Dangerous,95.0,5.2,Zak Forsman,Kevin K. Shah,Sam Krueger,Julie Keck,50000,0,0,2014,-100.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+155,Promised Land,106.0,6.6,Gus Van Sant,Chris Moore,Linus Sandgren,Dave Eggers,15000000,7597898,12394562,2013,-17.369586666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+156,Grace of Monaco,103.0,5.7,Olivier Dahan,Pierre-Ange Le Pogam,Eric Gautier,Arash Amel,30000000,0,25199891,2015,-16.000363333333333,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+157,Dead Man Down,118.0,6.5,Niels Arden Oplev,Neal H. Moritz,Paul Cameron,J.H. Wyman,30000000,10895295,19599974,2013,-34.66675333333333,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+158,Into the Storm,89.0,5.8,Steven Quale,Todd Garner,Brian Pearson,John Swetnam,50000000,47602194,150429371,2014,200.858742,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+159,Jagten,115.0,8.3,Thomas Vinterberg,Sisse Graum Jørgensen,Charlotte Bruus Christensen,Tobias Lindholm,3450000,687185,18309793,2013,430.7186376811594,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+160,Home Again,104.0,6.6,Sudz Sutherland,Don Carmody,Arthur E. Cooper,Jennifer Holness,15000000,27020284,37336874,2017,148.91249333333334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+161,Second Act,103.0,5.8,Peter Segal,Benny Medina,Ueli Steiger,Justin Zackham,15700000,39282227,63288854,2018,303.11371974522297,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+162,The Mule,103.0,6.3,Tony Mahony,Jane Liscombe,Stefan Duscio,Jaime Browne,50000000,103804407,170857676,2018,241.715352,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+163,The Accountant,128.0,7.3,Gavin O'Connor,Lynette Howell Taylor,Seamus McGarvey,Bill Dubuque,40000000,86260045,152962083,2016,282.4052075,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+164,Food Chains,83.0,7.2,Sanjay Rawal,Smriti Keshari,Forest Woodward,Erin Barnett,913000,0,176,2014,-99.98072289156626,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+165,Fear Clinic,95.0,5.0,Robert Hall,Mark Benton Johnson,Joseph White,Aaron Drane,1000000,0,0,2015,-100.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+166,Khiladi 786,141.0,4.4,Ashish R. Mohan,Sunil Lulla,Attar Singh Saini,Kushal Ved Bakshi,5600000,385422,14683763,2012,162.21005357142857,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+167,Metallica Through the Never,93.0,7.2,Nimród Antal,Charlotte Huggins,Gyula Pados,Robert Trujillo,18000000,3419967,9082906,2013,-49.53941111111111,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+168,Yeh Jawaani Hai Deewani,160.0,7.1,Ayan Mukherjee,Hiroo Johar,Manikandan,Hussain Dalal,8300000,3827466,50827466,2013,512.3791084337349,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+169,Into the Woods,125.0,6.0,Rob Marshall,Marc Platt,Dion Beebe,James Lapine,56200000,128002372,213116401,2014,279.21067793594307,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+170,Crawl,95.0,6.0,Hervé Lasgouttes,Antonin Dedet,Emmanuelle Le Fur,Loïc Delafoulhouse,17000000,0,0,2019,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+171,Earth to Echo,91.0,5.8,Dave Green,Ryan Kavanaugh,Maxime Alexandre,Henry Gayden,13000000,38934842,42174545,2014,224.41957692307693,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+172,Grown Ups 2,101.0,5.4,Dennis Dugan,Jack Giarraputo,Theo van de Sande,Fred Wolf,80000000,133668525,247023808,2013,208.77976,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+173,The Other Woman,109.0,6.0,Nick Cassavetes,Julie Yorn,Robert Fraisse,Melissa Stack,40000000,83911193,195111193,2014,387.7779825,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+174,Before Midnight,109.0,7.9,Richard Linklater,Christos V. Konstantakopoulos,Christos Voudouris,Kim Krizan,3000000,8110621,23251930,2013,675.0643333333334,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+175,Wild Card,92.0,5.6,Simon West,Steven Chasman,Shelly Johnson,William Goldman,30000000,3200,4315789,2015,-85.61403666666666,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+176,Kin,45.0,8.6,Rachel Lambert,Denis Deck,Joe Wehner,Nathan Gregorski,30000000,5718096,10096821,2018,-66.34393,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+177,Valerian and the City of a Thousand Planets,137.0,6.5,Luc Besson,Virginie Besson-Silla,Thierry Arbogast,Pierre Christin,180000000,40479370,215098356,2017,19.499086666666667,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+178,Zulu,110.0,6.7,Jérôme Salle,Richard Grandpierre,Denis Rouden,Caryl Ferey,16000000,0,1844228,2013,-88.47357500000001,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1
+179,Rush,110.0,3.8,Shamin Desai,Mohammed Fasih,Shiraz Bhattacharya,Sanjay Masoomm,38000000,26947624,98230839,2013,158.50220789473684,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+180,Magic Mike XXL,115.0,5.6,Gregory Jacobs,Nick Wechsler,Steven Soderbergh,Reid Carolin,14500000,66013057,123660597,2015,752.8317034482758,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+181,El rey de Najayo,101.0,6.9,Fernando Baez Mella,Michael Toribio,Peyi Guzmán,Franklin Soto,500000,0,0,2012,-100.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+182,Silence,87.0,6.7,Pat Collins,Tina Moran,Richard Kendrick,Eoghan Mac Giolla Bhríde,46500000,7100177,23726626,2016,-48.97499784946236,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+183,Love the Coopers,107.0,5.8,Jessie Nelson,Michael London,Elliot Davis,Steven Rogers,18000000,26302731,42227490,2015,134.59716666666665,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+184,The Canyons,99.0,3.8,Paul Schrader,Braxton Pope,John DeFazio,Bret Easton Ellis,250000,59671,62375,2013,-75.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+185,Falcon Rising,103.0,5.8,Ernie Barbarash,Ernst Etchie Stroh,Yaron Levy,Y.T. Parazi,4500000,11774,11774,2014,-99.73835555555556,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+186,23 Blast,98.0,6.5,Dylan Baker,Gary Donatelli,Jay Silver,Toni Hoover,1000000,549185,549185,2014,-45.081500000000005,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+187,Mandela: Long Walk to Freedom,141.0,7.1,Justin Chadwick,Anant Singh,Lol Crawley,William Nicholson,35000000,8323085,29890402,2013,-14.59885142857143,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+188,Wild,115.0,7.1,Jean-Marc Vallée,Bill Pohlad,Yves Bélanger,Nick Hornby,15000000,37880356,52460543,2014,249.73695333333333,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+189,The Rover,103.0,6.4,David Michôd,Liz Watts,Natasha Braier,Joel Edgerton,8500000,1109199,3180252,2014,-62.585270588235296,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+190,Jobs,128.0,5.9,Joshua Michael Stern,Mark Hulme,Russell Carpenter,Matt Whiteley,18000000,16131410,43402515,2013,141.12508333333332,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+191,La grande bellezza,141.0,7.8,Paolo Sorrentino,Francesca Cima,Luca Bigazzi,Umberto Contarello,12000000,2883879,29549145,2013,146.242875,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+192,Robin Hood,92.0,6.3,Martin Schreier,Simon J. Buchner,Markus Nestroy,Florian Schumacher,210000000,105487148,322459006,2010,53.551907619047626,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+193,Dry Spell,90.0,3.3,Travis Legge,Richard Lackey,Drew Pientka,Kyle Hoskins,22000,0,0,2014,-100.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+194,Treachery,67.0,3.7,Travis Romero,Ryan Azevedo,Eric Curtis,Lorraine Ziff,625000,0,0,2013,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+195,How to Train Your Dragon: The Hidden World,104.0,7.6,Dean DeBlois,Bonnie Arnold,Gil Zimmerman,Cressida Cowell,129000000,160791800,519258283,2019,302.52580077519383,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0
+196,Delivery Man,105.0,6.4,Ken Scott,André Rouleau,Eric Alan Edwards,Martin Petit,22000000,30659817,70536870,2013,220.62213636363634,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+197,Love in the Time of Monsters,97.0,5.5,Matt Jackson,Andy Gunn,Jorge L. Urbina,Michael Skvarla,500000,0,0,2015,-100.0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+198,Gods of Egypt,127.0,5.4,Alex Proyas,Basil Iwanyk,Peter Menzies Jr.,Matt Sazama,140000000,31153464,138836756,2016,-0.8308885714285714,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+199,The Heat,117.0,6.6,Paul Feig,Peter Chernin,Robert D. Yeoman,Katie Dippold,43000000,159581587,229727774,2013,434.25063720930234,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+200,Abduction,84.0,5.2,Michael Atwill,Joe Gomes,Billy Chang,Shane Rodgers,35000000,28087155,86648359,2011,147.56674,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+201,And So It Goes,94.0,5.8,Rob Reiner,Alan Greisman,Reed Morano,Mark Andrus,18000000,15160801,17920013,2014,-0.4443722222222222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+202,Paranormal Activity: The Marked Ones,84.0,5.0,Christopher Landon,Jason Blum,Gonzalo Amat,Oren Peli,5000000,32462372,90904854,2014,1718.09708,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+203,The Last Five Years,94.0,5.9,Richard LaGravenese,Lauren Versel,Steven Meizler,Jason Robert Brown,2000000,147299,205298,2015,-89.7351,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+204,Nerve,86.0,4.6,Sebastien Guy,Neal Kingston,James L. Brown,Sarah Smith,20000000,38583626,70652284,2016,253.26142,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+205,Broken Horses,101.0,5.7,Vidhu Vinod Chopra,Subhash Dhar,Tom Stern,Abhijat Joshi,15000000,0,3471,2015,-99.97686,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+206,Escobar: Paradise Lost,120.0,6.5,Andrea Di Stefano,Dimitri Rassam,Luis David Sansans,Francesca Marciano,17000000,195792,3917679,2015,-76.9548294117647,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0
+207,The Interview,80.0,5.0,Carlos Nunez,Dustin Fairbanks,Denis Dufresne,Mike Muldoon,44000000,6105175,12342632,2014,-71.94856363636364,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+208,The Light Between Oceans,133.0,7.2,Derek Cianfrance,Jeffrey Clifford,Adam Arkapaw,M.L. Stedman,20000000,12545979,22281732,2016,11.40866,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+209,The Queen,104.0,6.7,Mohammad Ali Bashe Ahangar,Abolghasem Hoseini,Ali Reza Zarrindast,Mohammad Reza Gohari,15000000,56441711,128885873,2006,759.2391533333333,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+210,The Second Best Exotic Marigold Hotel,122.0,6.6,John Madden,Graham Broadbent,Ben Smithard,Ol Parker,10000000,33078266,90384306,2015,803.84306,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+211,Going in Style,96.0,6.6,Zach Braff,Donald De Line,Rodney Charters,Theodore Melfi,24000000,45018541,78672579,2017,227.8024125,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+212,Girlhouse,99.0,5.5,Jon Knautz,Cory Neal,Christopher Norr,Nick Gordon,1500000,0,0,2015,-100.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+213,Hot Tub Time Machine 2,93.0,5.1,Steve Pink,Andrew Panay,Declan Quinn,Josh Heald,14000000,12314651,12826644,2015,-8.381114285714286,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0
+214,Independence Daysaster,90.0,3.4,W.D. Hogan,John Prince,Michael C. Blundell,Rudy Thauberger,1800000,0,0,2013,-100.0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+215,Miss Julie,129.0,5.5,Liv Ullmann,Synnøve Hørsdal,Mikhail Krichman,August Strindberg,5500000,0,863895,2015,-84.29281818181819,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+216,Me Before You,106.0,7.4,Thea Sharrock,Karen Rosenfelt,Remi Adefarasin,Jojo Moyes,20000000,56245075,208265198,2016,941.32599,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+217,Above and Beyond,90.0,7.7,Roberta Grossman,Sarah Forbes Campbell,Harris Done,Sophie Sartain,1300000,288751,288751,2015,-77.78838461538462,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+218,Devil's Due,89.0,4.1,Matt Bettinelli-Olpin,John Davis,Justin Martinez,Lindsay Devlin,7000000,15821461,36146087,2014,416.37267142857144,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+219,Thank You for Your Service,109.0,6.5,Jason Hall,Jon Kilik,Roman Vasyanov,David Finkel,20000000,9479390,9985316,2017,-50.07342,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+220,United Passions,110.0,2.1,Frédéric Auburtin,Louisa Maurin,Inti Briones,Jean-Paul Delfino,30000000,918,168832,2015,-99.43722666666666,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+221,The Dressmaker,119.0,7.1,Jocelyn Moorhouse,Sue Maslin,Donald McAlpine,P.J. Hogan,11900000,2022115,24041617,2016,102.03039495798319,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+222,The Hatching,90.0,4.0,Michael Anderson,Chantelle De Carvalho,Gerry Vasbenter,Nick Squire,5000000,0,0,2016,-100.0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0
+223,The Rise of the Krays,110.0,5.0,Zackary Adler,Craig Tuohy,Luke Palmer,Ken Brown,2500000,0,0,2016,-100.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+224,The Face of an Angel,101.0,4.6,Michael Winterbottom,Melissa Parmenter,Hubert Taczanowski,Paul Viragh,26000000,0,0,2015,-100.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+225,The Jungle Book,106.0,7.4,Jon Favreau,Brigham Taylor,Bill Pope,Rudyard Kipling,175000000,364001123,962854547,2016,450.2025982857143,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+226,Inferno,121.0,6.2,Ron Howard,Brian Grazer,Salvatore Totino,David Koepp,75000000,34343574,219519367,2016,192.69248933333333,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+227,Suffragette,106.0,6.9,Sarah Gavron,Alison Owen,Eduard Grau,Abi Morgan,14000000,4702420,34044909,2015,143.1779214285714,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0
+228,Eden,131.0,6.4,Mia Hansen-Løve,Charles Gillibert,Denis Lenoir,Sven Hansen-Løve,2300000,0,0,2016,-100.0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0
+229,The Masked Saint,105.0,4.6,Warren P. Sonoda,Cliff McDowell,James Griffith,Scott Crowell,3500000,182695,182695,2016,-94.78014285714286,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+230,Da Sweet Blood of Jesus,123.0,4.1,Spike Lee,Chiz Schultz,Daniel Patterson,Bill Gunn,1250000,0,0,2015,-100.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+231,Light from the Darkroom,90.0,6.1,Lance McDaniel,Nathan Gardocki,Alan Novey,Sean Lynch,600000,0,0,2014,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+232,Room,118.0,8.2,Lenny Abrahamson,Ed Guiney,Danny Cohen,Emma Donoghue,13000000,14677674,36262783,2015,178.94448461538462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+233,Barbecue,98.0,6.1,Eric Lavaine,François Cornuau,François Hernandez,Héctor Cabello Reyes,10000000,388,247565,2014,-97.52435,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+234,Annabelle,99.0,5.4,John R. Leonetti,Peter Safran,James Kniest,Gary Dauberman,6500000,84273813,256862920,2014,3851.7372307692303,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+235,Max,111.0,6.8,Boaz Yakin,Karen Rosenfelt,Stefan Czapsky,Sheldon Lettich,20000000,42656255,43658157,2015,118.29078500000001,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+236,A Monster Calls,108.0,7.5,J.A. Bayona,Belén Atienza,Oscar Faura,Patrick Ness,43000000,3740823,46414530,2017,7.940767441860465,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+237,Unforgettable,100.0,5.1,Denise Di Novi,Ravi D. Mehta,Caleb Deschanel,Christina Hodson,12000000,11368012,16221211,2017,35.17675833333334,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+238,The Lobster,119.0,7.1,Yorgos Lanthimos,Ed Guiney,Thimios Bakatakis,Efthymis Filippou,4500000,9196278,18019834,2016,300.44075555555554,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+239,Pound of Flesh,104.0,5.2,Ernie Barbarash,Henry Luk,Cliff Hokanson,Joshua Todd James,7500000,0,0,2015,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+240,Close Range,80.0,5.0,Isaac Florentine,Ehud Bleiberg,Tal Lazar,Chad Law,3000000,0,0,2015,-100.0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+241,The Veil,93.0,4.8,Phil Joanou,Jason Blum,Steeven Petitteville,Robert Ben Garant,4000000,0,0,2015,-100.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,UnDivided,66.0,8.4,Sam Martin,Jeff Martin,Jim Standridge,Dan Merchant,250000,0,0,2015,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+243,Ricki and the Flash,101.0,5.9,Jonathan Demme,Marc Platt,Declan Quinn,Diablo Cody,18000000,26839498,41166033,2015,128.70018333333334,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0
+244,Mutant World,82.0,2.8,David Winning,Michael Frislev,Neil Cervin,Matthew Campagna,1500000,0,0,2015,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+245,Allied,124.0,7.1,Robert Zemeckis,Graham King,Don Burgess,Steven Knight,106000000,40098064,119266661,2016,12.515717924528303,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+246,Misconduct,106.0,5.3,Shintaro Shimosawa,Ellen S. Wander,Michael Fimognari,Adam Mason,11000000,0,2352511,2016,-78.61353636363636,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+247,Unfriended,83.0,5.6,Levan Gabriadze,Timur Bekmambetov,Adam Sidman,Nelson Greaves,1000000,32789645,64364198,2015,6336.419800000001,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+248,My All-American,118.0,7.2,Angelo Pizzo,Paul Schiff,Frank G. DeMarco,Jim Dent,20000000,2246000,2246000,2015,-88.77000000000001,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+249,The Lady in the Van,104.0,6.7,Nicholas Hytner,Damian Jones,Andrew Dunn,Alan Bennett,6000000,10021175,42320503,2016,605.3417166666667,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+250,The Losers,112.0,1.7,Yi-an Lou,Eric Yeh,Chi-Hsuan Han,Yun-chu Tang,25000000,23591432,29863840,2010,19.45536,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+251,Zoom,96.0,6.1,Pedro Morelli,Andrea Barata Ribeiro,Adrian Teijido,Matt Hansen,35000000,11989328,12506188,2006,-64.26803428571428,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+252,The Nice Guys,116.0,7.4,Shane Black,Joel Silver,Philippe Rousselot,Anthony Bagarozzi,50000000,36261763,59596747,2016,19.193494,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+253,Saul fia,107.0,7.5,László Nemes,Gábor Rajna,Mátyás Erdély,Clara Royer,1700000,1777043,9696537,2015,470.3845294117647,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+254,The Bronze,100.0,6.0,Bryan Buckley,Stephanie Langhoff,Scott Henriksen,Winston Rauch,3500000,615816,615816,2016,-82.40525714285715,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+255,Shutter,123.0,7.2,V.K. Prakash,M.P. Sanjeev,Manoj Kumar Khatoi,Manisha Korde,8000000,25928550,47782426,2008,497.280325,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+256,Mustang,97.0,7.6,Deniz Gamze Ergüven,Charles Gillibert,David Chizallet,Alice Winocour,1400000,845464,5552584,2015,296.61314285714286,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+257,Stories of Our Lives,60.0,7.5,Jim Chuchu,Wangechi Ngugi,Dan Muchina,Njoki Ngumi,15000,0,0,2014,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+258,Hercules,112.0,6.2,Abhijit Guha,Shyamsundar Dey,Supriyo Dutta,Padmanabha Dasgupta,100000000,72688614,243388614,2014,143.388614,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+259,Home,103.0,7.2,Fien Troch,Antonino Lombardo,Frank van den Eeden,Nico Leunen,130000000,177397510,385997896,2015,196.92145846153846,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+260,The Shallows,86.0,6.3,Jaume Collet-Serra,Lynn Harris,Flavio Martínez Labiano,Anthony Jaswinski,13000000,55121623,118763442,2016,813.5649384615384,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+261,Rodeo Girl,108.0,5.8,Joel Paul Reisig,Lucas Miles,Dennis Thomas,Tricia Hopper,500000,0,0,2015,-100.0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+262,Renegades,106.0,5.4,Steven Quale,Raphaël Benoliel,Brian Pearson,Luc Besson,77500000,0,1521672,2019,-98.03655225806452,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+263,Florence Foster Jenkins,111.0,6.8,Stephen Frears,Tracey Seaward,Danny Cohen,Nicholas Martin,29000000,27383770,56000339,2016,93.1046172413793,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+264,Free Fire,91.0,6.4,Ben Wheatley,Andrew Starke,Laurie Rose,Amy Jump,10000000,1799322,3793739,2017,-62.06260999999999,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+265,Meet the Blacks,94.0,5.9,Deon Taylor,Shannon McIntosh,John T. Connor,Nicole DeMasi,900000,9097072,9097072,2016,910.7857777777778,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+266,The Wall,88.0,6.2,Doug Liman,David Bartis,Roman Vasyanov,Dwain Worrell,3000000,1803064,4495262,2017,49.84206666666667,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+267,Alpha,96.0,6.7,Albert Hughes,Andrew Rona,Martin Gschlacht,Daniele Sebastian Wiedenhaupt,51000000,35851379,99624873,2018,95.34288823529413,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+268,The Circle,110.0,5.3,James Ponsoldt,Anthony Bregman,Matthew Libatique,Dave Eggers,18000000,20497844,40651864,2017,125.84368888888888,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1
+269,They Will Have to Kill Us First,100.0,7.3,Johanna Schwartz,Kat Amara Korba,Karelle Walker,Andy Morgan,600000,0,7943,2016,-98.67616666666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+270,Two Lovers and a Bear,96.0,6.1,Kim Nguyen,Roger Frappier,Nicolas Bolduc,Louis Grenier,6840000,0,22273,2017,-99.67437134502924,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+271,Gifted,101.0,7.6,Marc Webb,Karen Lunder,Stuart Dryburgh,Tom Flynn,7000000,24801212,36964656,2017,428.0665142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+272,The Prodigy,92.0,5.9,Nicholas McCarthy,Tripp Vinson,Bridger Nielson,Jeff Buhler,6000000,14856291,19789712,2019,229.82853333333333,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+273,Nocturnal Animals,116.0,7.5,Tom Ford,Robert Salerno,Seamus McGarvey,Austin Wright,22500000,10663357,32398681,2016,43.99413777777777,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+274,Mile 22,94.0,6.1,Peter Berg,Stephen Levinson,Jacques Jouffret,Lea Carpenter,35000000,36108758,66295121,2018,89.41463142857144,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+275,Sleight,89.0,5.9,J.D. Dillard,Eric B. Fleischman,Ed Wu,Alex Theurer,250000,3930990,3934450,2017,1473.78,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+276,All Saints,108.0,6.0,Steve Gomer,Marc Bienstock,Eduardo Enrique Mayén,Steve Armour,2000000,5802208,5941994,2017,197.0997,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+277,On the Basis of Sex,120.0,6.9,Mimi Leder,Robert W. Cort,Michael Grady,Daniel Stiepleman,20000000,24622687,38073377,2018,90.366885,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+278,Lumea e a mea,104.0,6.3,Nicolae Constantin Tanase,Tudor Giurgiu,Daniel Kosuth,Raluca Manescu,168000,0,29678,2015,-82.3345238095238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+279,Lights Out,81.0,6.3,David F. Sandberg,Lawrence Grey,Marc Spicer,Eric Heisserer,5000000,67268835,148806510,2016,2876.1302,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+280,Unhinged,95.0,4.2,Giorgio Serafini,Scott Dolezal,Colemar Nichols,Garry Charles,29000000,0,0,2019,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+281,How to Be a Latin Lover,115.0,5.9,Ken Marino,Ben Odell,John Bailey,Jon Zack,10000000,32149404,62556228,2017,525.56228,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+282,Rough Night,101.0,5.2,Lucia Aniello,Matt Tolmach,Sean Porter,Paul W. Downs,20000000,22105643,46844357,2017,134.22178499999998,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1
+283,Blood Feast,90.0,4.9,Marcel Walz,Harald Schmalz,Roland Freitag,Philip Lilienschwarz,1200000,8708,8708,2018,-99.27433333333333,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,The Resurrection of Gavin Stone,91.0,6.2,Dallas Jenkins,Michael J. Luisi,Lyn Moncrief,Andrea Gyertson Nasfell,2000000,2303792,2303792,2017,15.1896,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+285,Kursk,117.0,6.5,Thomas Vinterberg,Ariel Zeitoun,Anthony Dod Mantle,Robert Rodat,40000000,0,4212799,2019,-89.4680025,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+286,Housefull,,3.9,Linson Antony,Jomon Antony,Neil D'Cuncha,Shiju Nambiath,10100000,1183658,18726300,2010,85.4089108910891,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,Time to Choose,100.0,7.5,Charles Ferguson,Audrey Marrs,Yuanchen Liu,Chad Beck,3500000,29233,29233,2016,-99.16477142857143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+288,Peter Rabbit,95.0,6.6,Will Gluck,Zareh Nalbandian,Peter Menzies Jr.,Rob Lieber,50000000,115234093,347136477,2018,594.272954,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+289,Annabelle: Creation,109.0,6.5,David F. Sandberg,Peter Safran,Maxime Alexandre,Gary Dauberman,15000000,102092201,305384865,2017,1935.8990999999999,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+290,Weekend,71.0,3.8,Yoshikazu Ishii,Keijirô Hara,Masafumi Seki,Keisuke Kanayama,190000,484592,1577585,2011,730.3078947368422,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+291,Wuthering Heights,,6.7,Elisaveta Abrahall,Clare Williams,Gary Rogers,Emily Brontë,8000000,100915,2721534,2012,-65.980825,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,Columbus,127.0,7.3,R. Samala,Ashwani Kumar Sehdev,Samala Bhasker,M.S. Raju,700000,1017107,1110511,2017,58.64442857142858,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+293,Happy Death Day,96.0,6.5,Christopher Landon,Jason Blum,Toby Oliver,Scott Lobdell,5000000,55683845,125010260,2017,2400.2052,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+294,Wish Upon,90.0,5.0,John R. Leonetti,Sherryl Clark,Michael Galbraith,Barbara Marshall,12000000,14301505,23477345,2017,95.64454166666667,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+295,Lean on Pete,121.0,7.2,Andrew Haigh,Tristan Goligher,Magnus Nordenhof Jønck,Willy Vlautin,8000000,1163056,2455027,2018,-69.3121625,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+296,The Big Sick,120.0,7.6,Michael Showalter,Judd Apatow,Brian Burgoyne,Emily V. Gordon,5000000,42872467,53972860,2017,979.4572000000001,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+297,Cargo,91.0,6.4,Gilles Coulier,Wouter Sap,David Williamson,Tom Dupont,4200000,0,313230,2011,-92.54214285714286,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+298,"I, Tonya",120.0,7.5,Craig Gillespie,Tom Ackerley,Nicolas Karakatsanis,Steven Rogers,11000000,30014534,53797409,2017,389.0673545454546,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0
+299,The Shape of Water,123.0,7.3,Guillermo del Toro,J. Miles Dale,Dan Laustsen,Vanessa Taylor,19500000,63859435,195790794,2017,904.0553538461538,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+300,The Covenant,90.0,5.2,Robert Conway,Justin L. Anderson,Travis Amery,Christopher R. Smith,20000000,23364784,38164784,2006,90.82392,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+301,Youth,124.0,7.3,Rakesh Kudalkar,Sundar Sethuraman,Chetan Jagannath Shinde,Vishal Chavan,13000000,2703296,24001573,2015,84.62748461538462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+302,The Possession of Hannah Grace,86.0,5.2,Diederik Van Rooijen,Todd Garner,Lennert Hillege,Brian Sieve,6000000,14836174,42785387,2018,613.0897833333333,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+303,Forsaken,86.0,5.0,Conor Allyn,Stacia Crawford,Adrian Peng Correia,Jake Allyn,18000000,0,0,2016,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+304,Dangal,,4.1,Anil Kulchainiya,Chandu,Prasad Chaurasia,Sudhakar Sharma,9500000,12391761,294654618,2016,3001.627557894737,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+305,Captive State,109.0,6.9,Rupert Wyatt,David Crockett,Alex Disenhof,Erica Beeney,25000000,5958315,8993300,2019,-64.0268,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1
+306,Diary of a Wimpy Kid: The Long Haul,91.0,4.4,David Bowers,Brad Simpson,Anthony B. Richmond,Jeff Kinney,22000000,20738724,35609577,2017,61.86171363636363,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+307,Aladdin,128.0,7.4,Guy Ritchie,Dan Lin,Alan Stewart,John August,182000000,246734314,619234314,2019,240.23863406593406,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+308,Adam,95.0,6.8,Rhys Ernst,Howard Gertler,Shawn Peters,Ariel Schrag,3200000,2283291,2834485,2009,-11.42234375,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+309,Safe,75.0,3.8,Paul Ruven,Marian Batavier,Tjitte Jan Nieuwkoop,Mark Gaspercic,33000000,17142080,41495213,2012,25.743069696969695,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+310,Hitman,147.0,4.9,Wajed Ali Sumon,Mohammad Jahangir Alam,S.M. Azhar,N. Linguswamy,24000000,39687694,99135571,2007,313.0648791666667,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+311,Book Club,104.0,6.1,Bill Holderman,Andrew Duncan,Andrew Dunn,Erin Simms,10000000,68566296,91113683,2018,811.13683,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+312,A Simple Favor,117.0,6.9,Paul Feig,Jessie Henderson,John Schwartzman,Jessica Sharzer,20000000,53548586,97628717,2018,388.143585,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0
+313,Destroyer,121.0,6.2,Karyn Kusama,Fred Berger,Julie Kirkwood,Phil Hay,9000000,1533324,3681096,2018,-59.098933333333335,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+314,Uncle Drew,103.0,5.7,Charles Stone III,Wyck Godfrey,Karsten Gopinath,Jay Longino,18000000,42469946,46527161,2018,158.4842277777778,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+315,El Chicano,108.0,5.7,Ben Hernandez Bray,Lorenzo di Bonaventura,Juan Miguel Azpiroz,Joe Carnahan,8000000,700261,700261,2019,-91.2467375,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+316,"Paul, Apostle of Christ",108.0,6.7,Andrew Hyatt,David Zelon,Gerardo Madrazo,Terence Berden,5000000,17547999,25529498,2018,410.58995999999996,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+317,Instant Family,118.0,7.4,Sean Anders,Stephen Levinson,Brett Pawlak,John Morris,48000000,67363237,119736188,2018,149.45039166666666,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+318,Spotlight,99.0,8.0,Sunkanmi Adebayo,Emem Isong,Uche Alexmoore,Anthony Kehinde Joseph,20000000,45055776,92088460,2015,360.4423,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+319,Teefa in Trouble,155.0,7.4,Ahsan Rahim,Dawid Szurmiej,Zain Haleem,Danyal Zafar,1500000,0,98806,2018,-93.41293333333334,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0
+320,Happy Death Day 2U,100.0,6.3,Christopher Landon,Jason Blum,Toby Oliver,Scott Lobdell,9000000,28051045,64179495,2019,613.1055,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+321,Red,90.0,8.1,Michael Grandage,Austin Shaw,Nick Morris,John Logan,60000000,90380162,196439693,2010,227.39948833333332,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+322,Walter,90.0,6.4,Varante Soudjian,Aïssa Djabri,Morgan S. Dalibert,Thomas Pone,700000,0,0,2015,-100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+323,Extremely Loud & Incredibly Close,129.0,6.9,Stephen Daldry,Scott Rudin,Chris Menges,Eric Roth,40000000,31847881,55247881,2011,38.1197025,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+324,Psych:9,98.0,4.5,Andrew Shortell,Philip Waley,Shane Daly,Lawrence Robinson,5000000,0,0,2010,-100.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+325,Battle Los Angeles,116.0,5.8,Jonathan Liebesman,Neal H. Moritz,Lukas Ettlin,Christopher Bertolini,70000000,83552429,213463976,2011,204.94853714285713,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+326,This Is the End,107.0,6.6,Evan Goldberg,James Weaver,Brandon Trost,Jason Stone,32000000,101470202,126539117,2013,295.434740625,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+327,This Is Where I Leave You,103.0,6.6,Shawn Levy,Paula Weinstein,Terry Stacey,Jonathan Tropper,20000000,34296320,41296320,2014,106.4816,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+328,Mine vaganti,110.0,7.3,Ferzan Ozpetek,Domenico Procacci,Maurizio Calvesi,Ivan Cotroneo,9100000,0,18872126,2010,107.38600000000001,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+329,The Haunting in Connecticut 2: Ghosts of Georgia,101.0,5.3,Tom Elkins,Paul Brooks,Yaron Levy,David Coggeshall,9000000,0,0,2013,-100.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+330,New Year's Eve,113.0,5.7,Garry Marshall,Mike Karz,Charles Minsky,Katherine Fugate,26000000,54544638,146850273,2011,464.80874230769234,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+331,Fugly!,100.0,4.3,Alfredo Rodriguez de Villa,Daniel Bigel,Nancy Schreiber,Kathy DeMarco,4500000,0,0,2014,-100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+332,The Woods,117.0,7.5,Michael Mandell,Romeo Antonio,Jonathan Greene,Stuart Bartieke,6000000,11494838,16369708,2012,172.82846666666666,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+333,NightLights,97.0,8.0,David Midell,Keaton Wooden,John Klein,Nick Izzo,250000,21147,21147,2014,-91.5412,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+334,Blackhats,104.0,6.2,Laron Austin,Bennie Swint,Karlyle Harris,Martin L. Kelley,70000000,8005980,19665004,2015,-71.90713714285715,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+335,Insidious: Chapter 2,106.0,6.6,James Wan,Jason Blum,John R. Leonetti,Leigh Whannell,5000000,83586447,161921515,2013,3138.4303,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+336,Not Safe for Work,74.0,5.8,Joe Johnston,Jason Blum,Jonathan Taylor,Adam Mason,2500000,0,0,2014,-100.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+337,The Hallow,97.0,5.7,Corin Hardy,Joe Neurauter,Martijn van Broekhuizen,Felipe Marino,100000,22764410,41656474,2015,41556.473999999995,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,Beginner's Guide to Sex,92.0,3.2,Andrew Drazek,Michael Mailer,Christopher C. Pearson,Ted Beck,1800000,0,0,2015,-100.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+339,"Men, Women & Children",119.0,6.7,Jason Reitman,Helen Estabrook,Eric Steelberg,Chad Kultgen,16000000,705908,1685403,2014,-89.46623124999999,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+340,Chiamatemi Francesco - Il Papa della gente,98.0,6.5,Daniele Luchetti,Pietro Valsecchi,Ivan Casalgrandi,Martín Salinas,15000000,0,3925769,2015,-73.82820666666666,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+341,Suntan,104.0,6.6,Argyris Papadimitropoulos,Phaedra Vokali,Christos Karamanis,Syllas Tzoumerkas,11000000,5599781,72989781,2016,563.5434636363636,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+342,Mission: Impossible - Fallout,147.0,7.8,Christopher McQuarrie,J.J. Abrams,Rob Hardy,Bruce Geller,178000000,220159104,787456552,2018,342.3913213483146,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+343,A Dog's Way Home,96.0,6.7,Charles Martin Smith,Gavin Polone,Peter Menzies Jr.,W. Bruce Cameron,61000000,41952715,81149689,2019,33.03227704918032,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
