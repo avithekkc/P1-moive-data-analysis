@@ -1,5 +1,5 @@
 # Movie Data Analysis Project
-![Movie Theater](https://github.com/avithekkc/P1-moive-data-analysis/blob/main/images/pexels-adrien-olichon-3709370.jpg?raw=true)
+![Movie Theater](https://github.com/avithekkc/P1-moive-data-analysis/blob/main/images/theater.jpg?raw=true)
 ## Overview
 Microsoft wants to enter into the world of film industry by opening a movie studio for which Microsoft need to make a key decision in order to succeed in the film industry. This is accomplished by exploring what type of films are currently doing the best at the box office, and then translating those findings into actionable insights for Microsoft.
 
