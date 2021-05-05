@@ -48,7 +48,7 @@ Ultra High (100M+)
 In order to find top director who have given Hit movies that had a very good ROI we filtered out the top directors based on average ROI.
 ![AVERAGE ROI BY DIRECTOR](https://github.com/avithekkc/P1-moive-data-analysis/blob/main/images/avg_roi_director.jpg?raw=true)
 ##  Conclusions
-Based on the data available I would recommend Microsoft to to make a movie that has ultra low or low budget on a Thriller Drama Movie with of the following Directors
+Based on the data available I would recommend Microsoft to to make a movie that has ultra low or low budget on a Thriller Drama Movie with one of the following Directors
 
  - John R. Leonetti
  - James Wan
@@ -62,6 +62,8 @@ Based on the data available I would recommend Microsoft to to make a movie that 
  - Analysis on successful Producers, Cinematographers, Writers and Actors.
  - Removing movies that had a clash with big budget movies which resulted into failure as this might give false indications on our predictions and recommendation.
  - Analysis on Soundtrack as can also help making a movie hit.
+ - Filter out movies by language.
+
 
 ##   Repository Structure
 ```
