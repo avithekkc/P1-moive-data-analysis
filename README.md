@@ -1,12 +1,13 @@
 # Movie Data Analysis Project
 ![Movie Theater](https://github.com/avithekkc/P1-moive-data-analysis/blob/main/images/theater.jpg?raw=true)
 ## Overview
-Microsoft wants to enter into the world of film industry by opening a movie studio for which Microsoft need to make a key decision in order to succeed in the film industry. This is accomplished by exploring what type of films are currently doing the best at the box office, and then translating those findings into actionable insights for Microsoft.
-
-
+Microsoft wants to enter into the world of film industry and needs an effective business strategy based on which films are doing well and are successful at box office.
 
 ## Business Problems
-Microsoft is stepping into film industry by creating a new movie studio but as this is the beginning of their journey they might not have an proper understanding and without knowing the current market and audience could lead to failure which would be both embarrassing for the company and result in a loss of money. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+ - Making a film without doing market analysis could result in loss and business failure.
+ - Ideal budget to be considered in order to at least break even.
+ - Director to be considered based on Genre of the film.
+
 
 ## Data
 The  **datasets**  folder contains the datasets used for this project:
