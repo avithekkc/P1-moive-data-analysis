@@ -70,8 +70,8 @@ Based on the data available I would recommend Microsoft to to make a movie that 
 ```
 ├── datasets                            <- All the data used for the analysis.
 ├── images                              <- All images used throughout the project.
-├── data-cleaning.ipynb                 <- Cleaning of data to create final dataset.
-├── data-visualization.ipynb            <- Insights and analysis.
+├── data-cleaning.ipynb                 <- Cleaning of data to create final dataset (part 1).
+├── data-visualization.ipynb            <- Insights and analysis (part 2).
 ├── presentation.pdf                    <- PDF version of project presentation.
 └── readme.md                           <- README file for Quick overview on project.
 ```
